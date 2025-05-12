@@ -5,7 +5,7 @@ A simple Laravel package that allows users to log in using a **one-time token** 
 ## 📦 Installation
 
 ```bash
-composer require abdulaziz96/laravel-quick-login
+composer require 1abdulaziz/laravel-quick-login
 ```
 
 ## ⚙️ Setup
