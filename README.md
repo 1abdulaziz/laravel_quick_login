@@ -30,7 +30,7 @@ Route::get('/login/token/{token}', function (Request $request, string $token, On
 You can generate a one-time login link via Artisan:
 
 ```bash
-php artisan uli 123 --minutes=5
+php artisan uli 12 --minutes=5
 ```
 
 ## 🚀 Usage Tinker
